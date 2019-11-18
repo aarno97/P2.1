@@ -1,8 +1,8 @@
 ## Project 2 for Human Computer Interaction
 
-*This project is intended to re-create the original game [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). 
+*This project is intended to re-create the original game [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). *
 
-*Play the original [Flappy Bird](https://flappybird.io). 
+*Play the original [Flappy Bird](https://flappybird.io). *
 
 Please view the [HTML](https://github.com/apape97/P2.2/blob/master/index.html). 
 
