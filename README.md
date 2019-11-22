@@ -1,6 +1,6 @@
 ## Flappy Bird
 
-[IMAGE](https://github.com/apape97/P2.1/blob/master/Images/Sketch%20Picture.png?raw=true)
+![IMAGE](https://github.com/apape97/P2.1/blob/master/Images/Sketch%20Picture.png?raw=true)
 
 *This project is intended to re-create the original game [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird).*
 
