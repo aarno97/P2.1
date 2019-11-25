@@ -28,7 +28,7 @@ Jeremy Wenzel -
 
 ### P2 Sketches
 
-Please see above at Sketch Presentation for the information, files, and other necessary objects
+Please see above at [Sketch Presentation](https://github.com/apape97/P2.1/blob/master/README.md#sketch-presentation) for the information, files, and other necessary objects
 
 ### Project Description (Screenshots, Guides, and Rules) 
 
