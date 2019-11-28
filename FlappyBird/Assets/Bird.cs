@@ -13,6 +13,8 @@ public class Bird : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        ScoreScript.scoreValue = 0;
+        
         //Fly towards the right
         GetComponent<Rigidbody2D>().velocity = Vector2.right*speed; 
     }
@@ -23,6 +25,9 @@ public class Bird : MonoBehaviour
         // Flap
         if (Input.GetKeyDown(KeyCode.Space)) 
             GetComponent<Rigidbody2D>().AddForce(Vector2.up * force); 
+            
+        // figure out how it passes through the pipes
+        ScoreScript.scoreValue += 1;
     }
     
     void OnCollisionEnter2D(Collision2D coll) {
