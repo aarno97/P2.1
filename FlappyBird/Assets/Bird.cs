@@ -27,6 +27,6 @@ public class Bird : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D coll) {
         //Restart
-        Application.LoadLevel("Home Screen"); 
+        Application.LoadLevel("GameOver"); 
     }
 }
