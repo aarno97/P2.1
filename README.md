@@ -40,3 +40,5 @@ Please see above at [Sketch Presentation](https://github.com/apape97/P2.1/blob/m
 ### Citations
 
 The initial program was made using this [guide](https://noobtuts.com/unity/2d-flappy-bird-game). 
+
+Some graphics/text were made using the app [Over](https://apps.apple.com/us/app/over-design-flyer-story-maker/id535811906)
