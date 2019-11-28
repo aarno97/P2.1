@@ -23,8 +23,11 @@ Please visit the [live demo](www.google.com)
 ### Team Members
 
 Aaron Arnold - 
+
 Michael Taylor -
+
 Jeremy Wenzel -
+
 
 ### P2 Sketches
 
@@ -36,4 +39,6 @@ Please see above at [Sketch Presentation](https://github.com/apape97/P2.1/blob/m
 
 ### Citations
 
-*We have not used any libraries/pre-built software other than Unity's built-in functions* 
+The initial program was made using this [guide](https://noobtuts.com/unity/2d-flappy-bird-game). 
+
+Some graphics/text were made using the app [Over](https://apps.apple.com/us/app/over-design-flyer-story-maker/id535811906)
