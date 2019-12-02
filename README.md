@@ -20,6 +20,10 @@ Please view the [PDF Sketch Presentation](https://github.com/apape97/P2.1/blob/m
 
 Please visit the [live demo](https://github.com/apape97/P2.1/blob/master/index.html) 
 
+Task Description: This current version of the project has a score tracker and the baseline app. 
+
+Hypothesis: The game should play fluidly and show the correct score. 
+
 ### Team Members
 
 Aaron Arnold - Baseline app, web build
