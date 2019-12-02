@@ -18,7 +18,7 @@ Please view the [PDF Sketch Presentation](https://github.com/apape97/P2.1/blob/m
 
 ### Demo 
 
-Please visit the [live demo](https://github.com/apape97/P2.1/blob/master/FlappyBirdWebBuild/index.html)
+Please visit the [live demo](https://github.com/apape97/P2.1/blob/master/FlappyBirdWebBuild/index.html) 
 
 ### Team Members
 
