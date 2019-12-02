@@ -13,6 +13,6 @@ public class GameOverScreen : MonoBehaviour
         Play(); 
     }
     void Play() {
-        Application.LoadLevel("Main"); 
+        Application.LoadLevel("Home Screen"); 
     }
 }
