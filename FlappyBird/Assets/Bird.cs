@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
  
 public class Bird : MonoBehaviour
 {
@@ -31,7 +32,7 @@ public class Bird : MonoBehaviour
             GetComponent<Rigidbody2D>().AddForce(Vector2.up * force);
  
         // figure out how it passes through the pipes
-        if (x == 55)
+        if (x == 56)
         {
             ScoreScript.scoreValue += 1;
             x = 0;
@@ -45,6 +46,6 @@ public class Bird : MonoBehaviour
    
     void OnCollisionEnter2D(Collision2D coll) {
         //Restart
-        Application.LoadLevel("GameOver");
+        SceneManager.LoadScene("GameOver");
     }
 }
