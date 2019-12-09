@@ -80,10 +80,10 @@ public class Bird : MonoBehaviour
 
 
         // figure out how it passes through the pipes
-        if (x == 58)
+        if (x == 600)
         {
             ScoreScript.scoreValue += 1;
-            x = 0;
+            x = 375;
         }
  
         else
