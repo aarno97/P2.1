@@ -18,7 +18,7 @@ Please view the [PDF Sketch Presentation](https://github.com/apape97/P2.1/blob/m
 
 ### Demo 
 
-Please visit the [live demo](https://github.com/apape97/P2.1/blob/master/index.html) 
+Please request the demo from Michael Taylor as the project with sound works best on his machine. 
 
 Task Description: This current version of the project has a score tracker and the baseline app. 
 
