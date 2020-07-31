@@ -6,7 +6,7 @@
 
 *Play the original [Flappy Bird](https://flappybird.io).*
 
-Please view the [GitHub Presentation Page](https://apape97.github.io/P2.1/). 
+Please view the [GitHub Presentation Page](https://aarno97.github.io/P2.1/). 
 
 ### Sketch Presentation
 
